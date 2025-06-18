@@ -40,7 +40,7 @@ This is not a symbolic project. It is for direct use.
 
 We welcome coders, designers, data analysts, educators, immigration defenders, and anyone with lived knowledge of these systems. You can:
 
-* Add to the [Resource Radar](resource_radar.csv)
+* Add to the [Resource Radar](resource-radar.csv)
 * Suggest or build tools under `/toolkits/`
 * Submit guides or simulations for safety and resistance
 * Join the discussion on what protection means *now* and *next*
@@ -143,7 +143,7 @@ Este no es un proyecto simbólico. Es para uso directo.
 
 Damos la bienvenida a programadores, diseñadores, analistas de datos, educadores, defensores de la inmigración y a cualquier persona con experiencia práctica en estos sistemas. Puedes:
 
-* Añadir al [Radar de Recursos](./data/resource_radar.csv)
+* Añadir al [Radar de Recursos](resource-radar.csv)
 * Sugerir o crear herramientas en `/toolkits/`
 * Enviar guías o simulaciones para la seguridad y la resistencia
 * Unirse al debate sobre qué significa la protección *ahora* y *en el futuro*
