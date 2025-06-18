@@ -58,12 +58,30 @@ We welcome coders, designers, data analysts, educators, immigration defenders, a
 
 ## 📁 Repo Structure
 
+```bash
+anti-deportation-toolforge/
+├── README.md                    # This file
+├── github-resources.csv         # Seeded list of relevant GitHub projects
+├── toolforge-tracker.csv        # Project planning & status tracking (CSV)
+├── projects.md                  # Human-friendly summaries of tools in progress
+├── microtasks.md                # Tactical to-dos and modular dev prompts
+├── outreach.md                  # (Optional) Collaboration planning & org notes
+├── bash/                        # (Optional) Helper shell scripts
+│   ├── init.sh
+│   └── scan-update.sh
+└── data/                        # (Optional) Outputs, scraped info, logs
 ```
-/data                  # CSVs and structured research
-/toolkits              # Tactical tools, scripts, templates
-/infra                 # Planning, Notion/GitHub integration
-README.md              # Project overview and contributor guide
-```
+
+---
+
+## ✅ How to Use
+
+- Read `projects.md` to get a quick sense of high-impact tool ideas
+- Open `toolforge-tracker.csv` to see current development phase and plans
+- Scan `microtasks.md` if you're looking for small wins or fast contributions
+- Fork the repo or open a PR if you want to help out
+
+This repo uses a text-first, scriptable planning workflow—Markdown + CSV + Git. 
 
 ---
 
@@ -73,12 +91,9 @@ This project began in 2025 as a collaboration between survivors, technologists, 
 
 ---
 
-## 🫂 Contact & Collab
+## 📬 Want to Contribute?
 
-To collaborate, propose additions, or offer support:
-→ GitHub Issues or PRs welcome
-→ Email: \[nichiyes@gmail.com]
-→ Join our [Notion planning hub](#)
+Check `microtasks.md`, browse the CSVs, or propose your own microtool. Collaboration welcome from coders, researchers, designers, organizers, or anyone with lived knowledge.
 
 Solidarity is a system.
 Let’s build it.
